@@ -1,0 +1,14 @@
+Additional task 1
+
+Person classiniz var. Name Surname Age propertyleri var.
+Employee(salary ve position propertyleri olan) ve students(AvarageMark,IsGraduated proplari olan)
+ classlariniz da var, her iksi Persondan miras alir.
+Personda GetInformations metodunuz var. Bu metod Student ve Employeede override ve
+hansi classa aiddirse o classin butun infolarini cixarmalidir.
+meselen: Hemin metodu Employeeden instance alib cagiranda ekrana:"This employee informations is
+ Resul,Hesenov,15,10000,director cixmalidir. Diger classlar ucun de eyni sekilde uygun olan
+ melumatlari cixarmalidir
+
+
+
+Good Luck)
