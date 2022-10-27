@@ -19,15 +19,15 @@ namespace ConsoleApp1
         //2.Id propertysini siz elinizle set etmemelisiniz, avtomatik ozu artmali ve unique olmalidir.
 
         //3.maxSpeed ucun extension yazmalisiniz, eger 250 den boyuk deyer alarsa, "Bu adli masinin suretinde sehvlik var"
-//        ekrana cixsin.
+       //   ekrana cixsin..
        
-//4.Car tipinden bir array yaradin ve icine carlarinizi yigib ekrana melumatlarini gosterin.
+     //4.Car tipinden bir array yaradin ve icine carlarinizi yigib ekrana melumatlarini gosterin.
 
-//5.Bus classi yaradin ve Vehicleden miras alsin, elave bir PassengerCount propertysi olsun.
-//       ReturnAllInfo-nu Bus ucun de override edin
+     //5.Bus classi yaradin ve Vehicleden miras alsin, elave bir PassengerCount propertysi olsun.
+     //   ReturnAllInfo-nu Bus ucun de override edin
         static void Main(string[] args)
         {
-            Car car1 = new Car("BMW","Yellow",100,"I8");
+            Car car1 = new Car("BMW","blue",100,"I8");
             Car car2 = new Car("Nissan", "Yellow", 1200, "I9");
             car1.ReturnAllInfo();
             car2.ReturnAllInfo();
