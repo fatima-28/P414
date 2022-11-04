@@ -1,0 +1,14 @@
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.AssemblyReference.cache
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\mac\Desktop\Casting-Implicit-Explicit\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache

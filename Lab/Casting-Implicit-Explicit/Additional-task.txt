@@ -1,0 +1,11 @@
+Student classiniz var. Icherisinde Id(hansi ki el ile daxil etmeyeceksiz,avtomatik artacaq),
+Name,Surname,Age,IsGraduated,AvarageMark kimi propertyler var.
+Group classiniz var. Onun da avtomatik artan Id propertysi ve GroupNo propertysi olmalidir.
+Group classinizda Add metodunuz olmalidir. Ve o metod vasitesile grupa studentleri add ede bilmelisiz. 
+GetAllStu metodunuz vasitesile butun studentleri gormelisiz.
+Faculty classiniz olmalidir. Onun da Id si ve Name-si olmalidir. fakultelere gruplar elave etmek ucun
+de AddGroup metodu yazmalisiz. GetAllGroup vasitesi ile butun qrup infolarini elde etmelisiz.
+University classiniz olmalidi. Onun da static artan Id propertysi ve Name propertysi olmalidir. 
+universtietlere fakulteler add etmek ucun  AddFaculty metodu yazmalisiz. Eyni zamanda GetAllFaculty
+metodunuz vastesile butun fakulte melumatlarini elde etmelisiz. 
+Good Luck)
