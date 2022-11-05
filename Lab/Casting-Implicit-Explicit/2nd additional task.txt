@@ -3,10 +3,10 @@ List classinizin static artan Id si ve Name-i olmalidir.
 
 Daha sonra asagidaki classlariniz ve propertyleriniz olmalidir:
  Room  -Id,RoomNo,Capacity
-Students-Id,Name,Surname,Age,AvarageMark
-Faculties-Id,Name
-Universities-Id,Name,Capacity,PassingScore
-Emplooyees-Id,Name,Surname,Age,Salary
+Student-Id,Name,Surname,Age,AvarageMark
+Faculty-Id,Name
+University-Id,Name,Capacity,PassingScore
+Emplooyee-Id,Name,Surname,Age,Salary
 Product-Id,Name,Count,Price,IsDeleted
 
 Id-lerin hamisi static artan olmalidir, 
