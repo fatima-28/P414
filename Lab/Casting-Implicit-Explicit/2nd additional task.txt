@@ -1,0 +1,21 @@
+Generic typeden bir list yaradacaqsiniz.
+List classinizin static artan Id si ve Name-i olmalidir.
+
+Daha sonra asagidaki classlariniz ve propertyleriniz olmalidir:
+ Room  -Id,RoomNo,Capacity
+Students-Id,Name,Surname,Age,AvarageMark
+Faculties-Id,Name
+Universities-Id,Name,Capacity,PassingScore
+Emplooyees-Id,Name,Surname,Age,Salary
+Product-Id,Name,Count,Price,IsDeleted
+
+Id-lerin hamisi static artan olmalidir, 
+Butun propertyler uygun classlarin constructorlarindan gonderilmelidir.
+
+List classinizda Add ve GetAll metodlariniz olmalidir. Program.cs de her bir type ucun 
+list yaradin(list classinizdan instance alaraq list objectleri),
+icerisne uygun objectleri yigin ve GetAll vasitesile ekrana cixarin:
+
+Meselen- Productlar uchun productList olmalidir ve icine productlar yigilmalidir. 
+Studentsler ucun studentsList olmali ve icine studentsler yigilmalidir. 
+Good Luck)
