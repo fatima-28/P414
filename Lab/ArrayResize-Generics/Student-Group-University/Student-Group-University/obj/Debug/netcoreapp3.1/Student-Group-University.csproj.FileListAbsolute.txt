@@ -1,0 +1,14 @@
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\bin\Debug\netcoreapp3.1\Student-Group-University.exe
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\bin\Debug\netcoreapp3.1\Student-Group-University.deps.json
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\bin\Debug\netcoreapp3.1\Student-Group-University.runtimeconfig.json
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\bin\Debug\netcoreapp3.1\Student-Group-University.runtimeconfig.dev.json
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\bin\Debug\netcoreapp3.1\Student-Group-University.dll
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\bin\Debug\netcoreapp3.1\Student-Group-University.pdb
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.csproj.AssemblyReference.cache
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.AssemblyInfoInputs.cache
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.AssemblyInfo.cs
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.dll
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.pdb
+C:\Users\mac\Desktop\7November\Student-Group-University\Student-Group-University\obj\Debug\netcoreapp3.1\Student-Group-University.genruntimeconfig.cache
