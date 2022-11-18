@@ -1,0 +1,29 @@
+            Custom,generic typeden olan ve bir parametr qebul eden bir delegate yaradirsiniz.
+            (Return typesi de generic olsun).
+            Diger bir custom delegateniz var ve onunda butun tipleri genericdir, o 2 parametr qebul edir.
+            Languages classiniz var.Name(string),CreatingDate(datetime),power(int) ve popularity(int)
+            propertyleri var
+            4 parametr qebul eden GetUsefulLanguages() metodunuz var, parametrlerden 3u metdolar,
+            biri ise Dictionary typesinden bir collectiondur.
+            GetUsefulLanguages metoduna parametr olaraq gondereceyiniz metodlardan ilki
+           CheckPower metodunuz olacaq. return typesi stringden olsun, 2 parametr qebul edecek,(languagenin gucu ve adini)
+            eger power 100den coxdursa
+            prog dilinin adi + gucu yeterlidir -return etsin(meselen: Java - gucu yeterlidir),eks halda "prog dilinin adi+ gucu yeterli deyil".
+
+            GetUsefulLanguages metoduna parametr olaraq gondereceyiniz metodlardan ikincisi
+            CheckCreatingDate() olacaq.prog dilinin yaranma tarixi parametr olaraq bura gonderilecek.
+             eger dil 500 gunden evvel yaranibsa onda false, son 500 gun erzinde yaranibsa
+            true return edecek.
+           Ve son qebul edeceyimiz Metod UpdatePopularity(), popularityni qebul edecek ve 2 qatini bize qaytaracaq.
+
+            metodumuzu isleydende bize collectionumuzda:
+            1.Dictionarydeki Key - ini
+            2.son 500 gun erzinde yaradilmis prog dillerinin gucunun yeterli olub olmadigini,
+            3.popularitysinin 2 qatini
+            4.prog dilinin adini cixarmalidir.
+            Eger yaranma tarixi 500 gunden coxdursa(son 500 gun erzinde yaranmayibsa) ekranda gormemeliyik.
+
+            P.S: Collection deyende Listden yox dictionaryden bir topluluq yaradacaqsiniz,
+            bu sefer dictionary ile isleyin ki ondan da melumatiniz olsun
+            Good Luck:)
+   
