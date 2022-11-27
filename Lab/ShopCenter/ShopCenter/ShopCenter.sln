@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCenter", "ShopCenter\ShopCenter.csproj", "{DBF5D910-C329-43F2-92AC-E669969B6F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{604F4325-B1D9-410D-A52B-60DD40D3C81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{83BB5496-3089-45FA-8909-351017FB14D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF5D910-C329-43F2-92AC-E669969B6F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF5D910-C329-43F2-92AC-E669969B6F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF5D910-C329-43F2-92AC-E669969B6F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF5D910-C329-43F2-92AC-E669969B6F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604F4325-B1D9-410D-A52B-60DD40D3C81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604F4325-B1D9-410D-A52B-60DD40D3C81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604F4325-B1D9-410D-A52B-60DD40D3C81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604F4325-B1D9-410D-A52B-60DD40D3C81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BB5496-3089-45FA-8909-351017FB14D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BB5496-3089-45FA-8909-351017FB14D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BB5496-3089-45FA-8909-351017FB14D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BB5496-3089-45FA-8909-351017FB14D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB871202-66F1-434B-9185-9B6A774CF049}
+	EndGlobalSection
+EndGlobal
