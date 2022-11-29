@@ -20,9 +20,8 @@
             username
             posts 
 
-
             Posts clasisnizda:
-            title
+            title (postlarin titlesi eyni ola bilmez)
             context
             sharedtime
 
