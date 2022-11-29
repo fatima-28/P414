@@ -11,7 +11,7 @@
             deyisdirmememeli - ekrana bildirish cixarmalidir.Sadece usernameni deyishmek olur.
 
             4.create post - bu option seçildikdə yeni post yaranması ucun  məlumatlar daxil edilməlidir.
-            daha sonra bu postu accounta elave etmelidir
+            daha sonra bu postu elave edeceyiniz accountu daxil etmelisiniz ve post accounta elave edilmelidir
 
             0.program dayansin
 
