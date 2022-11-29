@@ -17,7 +17,7 @@
 
             Account classinizda:
             fullname
-            username
+            username(usernameler unique olmalidir)
             posts 
 
             Posts clasisnizda:
