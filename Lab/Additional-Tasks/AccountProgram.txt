@@ -1,0 +1,30 @@
+            Instagramin adminisiniz, accountlari ve postlari istediyiniz kimi idare ede bilirisniz.
+
+            Program ishledikde ashagidaki optionlar çıxsın:
+            1.create new account- bu optionda yeni account yaratmaq üçün lazımlı melumatlar daxil edilsin.
+             eger şertlere uyğun deilse, yeniden daxil edilmesi teleb edilsin.
+
+
+            2.accountlarin siyahisini goster.-butun accountlarin butun melumatlari ekrana cixarilmalidir
+
+            3.update account - bu sechim edilende accountun usernamesi teleb olunmali, eger bele br username varsa
+            deyisdirmememeli - ekrana bildirish cixarmalidir.Sadece usernameni deyishmek olur.
+
+            4.create post - bu option seçildikdə yeni post yaranması ucun  məlumatlar daxil edilməlidir.
+            daha sonra bu postu accounta elave etmelidir
+
+            0.program dayansin
+
+            Account classinizda:
+            fullname
+            username
+            posts 
+
+
+            Posts clasisnizda:
+            title
+            context
+            sharedtime
+
+      Program islediyi muddetce yaratdiqlariniz yaddashda qalmalidir(staticden istifade edin)
+      Good Luck:)

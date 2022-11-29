@@ -1,0 +1,10 @@
+5.Arrayiniz var ve icinde aylar var, yaz ayi olanlari ekrana cixaran metod yazin
+
+6.2 eyniadli metodunuz var, bunlardan biri 2 parametr digeri 3 parametr qebul
+edir. Eger 2 parametr qebul ededin parametrlerinden en az 1i cutdurse cemini ekrana cixaran metod yazin.
+Eger 3 parametrimizden en az biri tekdirse ekrana kvadratlarini cixarsin
+
+
+7.Size bir eded gelir. Bu ededi ikili say sistemindeki edede cevirende,
+ onda olan 1 lerin sayini tapib ekrana cixarsin(meselen ededimiz 3 dur-ikilik sistemde 11, 
+bize ekrana 2 cixarmalidir)
