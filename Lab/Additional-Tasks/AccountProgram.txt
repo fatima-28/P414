@@ -14,6 +14,7 @@
             daha sonra bu postu elave edeceyiniz accountu daxil etmelisiniz ve post accounta elave edilmelidir
 
             0.program dayansin
+            Bu reqemlerden basqa bir option sechildikde xeta mesaji cixarsin.
 
             Account classinizda:
             fullname
