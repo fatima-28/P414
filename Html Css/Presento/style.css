@@ -1,0 +1,129 @@
+* {
+  /* border: 1px solid #e03a3c; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navbar {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 80px;
+}
+.navbar-items ul {
+  display: flex;
+  list-style: none;
+  gap: 40px;
+}
+.logo a {
+  color: black;
+}
+.navbar-items ul li {
+  font-weight: 300;
+}
+.navbar-items ul li .navbar-item {
+  color: black;
+  transition: 0.6s;
+}
+.navbar-items ul li .navbar-item:hover {
+  color: #e03a3c;
+}
+.navbar .logo {
+  font-weight: 700;
+  font-size: 32px;
+  display: flex;
+  align-items: center;
+}
+.navbar .logo span {
+  color: #e03a3c;
+  position: relative;
+  right: 10px;
+}
+.navbar-items {
+  display: flex;
+  align-items: center;
+}
+.navbar-items ul li .get-started-btn {
+  background-color: #e03a3c;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+.navbar-items ul li .get-started-btn:hover {
+  background-color: black;
+}
+.about-us {
+  height: 600px;
+
+  background-size: cover;
+  background-image: url(https://bootstrapmade.com/demo/templates/Presento/assets/img/hero-bg.jpg);
+}
+.layer {
+  height: 600px;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.about-us-text-part {
+  padding: 99px 75px;
+  color: white;
+  width: 650px;
+}
+.about-us-text-part h2 {
+  font-size: 50px;
+  font-weight: 600;
+}
+.about-us-text-part p {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 25px;
+}
+.about-us-text-part a {
+  color: white;
+  border: 2px solid #e03a3c;
+  background-color: #e03a3c;
+  padding: 15px 40px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  transition: 0.6s;
+}
+.about-us-text-part a:hover {
+  border: 2px solid white;
+  background-color: transparent;
+}
+.tabs {
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+.tabs .tabs-item {
+  cursor: pointer;
+  width: 230px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  color: black;
+  justify-content: center;
+  font-weight: 530;
+  font-size: 20px;
+  border: 1px solid #000000;
+  text-align: center;
+  transition: 0.6s;
+}
+.tabs .tabs-item:nth-child(1) {
+  border: 1px solid #e03a3c;
+
+  background-color: #e03a3c;
+  color: #fff;
+}
+.tabs .tabs-item:hover:not(:first-child) {
+  color: #e03a3c;
+  border: 1px solid rgb(219, 219, 219);
+}
