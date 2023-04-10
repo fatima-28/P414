@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    .main {
+      width: 100px;
+      height: 100px;
+      border: 1px solid black;
+      transition: 1s;
+    }
+    .move {
+      margin-top: 50px;
+    }
+    .bg-color {
+      background-color: brown;
+    }
+    .increase {
+      width: 300px;
+      height: 300px;
+    }
+    .rounded{
+        border-radius: 50%;
+    }
+  </style>
+  <body>
+    <div class="main"></div>
+    <!--dive mueyyen animationlar verin ve bu animasiyalarin mueyyen muddeti olsun,
+    amma nested setTimeOut yerine promise istifade edin(trick: saniye qebul eden
+    function vasitesile yazin ) -->
+    <script>
+      let div = document.querySelector(".main");
+      let stop = (second) =>
+        new Promise((resolve) => setTimeout(resolve, second));
+      stop(500)
+      .then(()=>{
+        div.classList.add("move");
+        return stop(1000)
+      })
+      .then(()=>{
+        div.classList.add("increase");
+        return stop(1000)
+      })
+      .then(()=>{
+        div.classList.add("bg-color");
+        return stop(1000)
+      }) .then(()=>{
+        div.classList.add("rounded");
+        return stop(1000)
+      })
+     
+    </script>
+  </body>
+</html>
