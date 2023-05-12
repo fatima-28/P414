@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>Drool</title>
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="~/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="~/css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+   
+        <!-- header section strats -->
+    <header class="header_section" style="background-color:#FFF7D4">
+            <div class="container-fluid">
+                <nav class="navbar navbar-expand-lg custom_nav-container">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="~/images/logo.png" alt="">
+                    </a>
+                    <div class="" id="">
+                        <div class="User_option">
+                            <form class="form-inline my-2  mb-3 mb-lg-0">
+                                <input type="search" placeholder="Search">
+                                <button class="btn   my-sm-0 nav_search-btn" type="submit"></button>
+                            </form>
+                        </div>
+
+                        <div class="custom_menu-btn">
+                            <button onclick="openNav()">
+                                <span class="s-1">
+
+                                </span>
+                                <span class="s-2">
+
+                                </span>
+                                <span class="s-3">
+
+                                </span>
+                            </button>
+                        </div>
+                        <div id="myNav" class="overlay">
+                            <div class="overlay-content">
+                                <a asp-controller="Home" asp-action="Index">Home</a>
+                                <a asp-controller="About" asp-action="Index">About</a>
+                                <a asp-controller="Contact" asp-action="Index">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!-- end header section -->
+        <!-- slider section -->
+            <!-- end slider section -->
+ 
+
+        @RenderBody()
+
+    <!-- footer section -->
+    <section class="container-fluid footer_section ">
+        <p>
+            &copy; 2019 All Rights Reserved. Design by
+            <a href="https://html.design/">Free Html Templates</a>
+        </p>
+    </section>
+    <!-- end  footer section -->
+
+
+    <script type="text/javascript" src="~/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="~/js/bootstrap.js"></script>
+    <script>
+        function openNav() {
+            document.getElementById("myNav").classList.toggle("menu_width")
+            document.querySelector(".custom_menu-btn").classList.toggle("menu_btn-style")
+        }
+    </script>
+
+</body>
+
+</html>
