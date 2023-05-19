@@ -1,0 +1,14 @@
+﻿@model Customers
+@{
+    ViewData["Title"] = "Detail";
+
+}
+
+<div class="ml-5">
+    <div style="width:150px;height:150px">
+        <img src="~/images/@Model.Img" style="width:100%;height:100%" alt="Image" />
+    </div>
+    <h1> Name:@Model.Name</h1>
+  
+    <h2 ">Description: @Model.Message</h2>
+</div>

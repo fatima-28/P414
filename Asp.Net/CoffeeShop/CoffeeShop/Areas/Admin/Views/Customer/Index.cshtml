@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    int cnt = 0;
+}
+@model IEnumerable<Customers>
+
+<div>
+    <h1>Products</h1>
+
+    <button class="btn btn-success btn-lg">Create</button>
+    <table class="table table-dark">
+
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Image</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Settings</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@cnt</th>
+                    <td><img src="~/images/@item.Img" style="width:90px;height:90px;" /></td>
+                    <td>@item.Name</td>
+                    <td>@item.Message</td>
+                    
+
+                    <td>
+                        <a class="btn btn-warning btn-sm">Uptade</a>
+                        <a class="btn btn-primary btn-sm" asp-action="Detail" asp-route-Id="@item.Id">Detail</a>
+                        <a class="btn btn-danger btn-sm">Remove</a>
+                    </td>
+                </tr>
+                cnt++;
+            }
+        </tbody>
+    </table>
+
+</div>
+
+

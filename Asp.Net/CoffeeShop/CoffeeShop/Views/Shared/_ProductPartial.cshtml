@@ -1,0 +1,18 @@
+﻿
+@model List<Product>
+@foreach (var product in Model)
+{
+    <div class="col-lg-3 col-md-6 my-2">
+        <div class="coffee_img"><img src="~/images/@product.Image"></div>
+        <h3 class="types_text">@product.Name</h3>
+        <p class="looking_text">@product.Description</p>
+        <p class="looking_text text-success">$@product.Price</p>
+        <div class="read_bt"><a href="#">Read More</a></div>
+    </div>
+
+
+}
+
+  
+
+

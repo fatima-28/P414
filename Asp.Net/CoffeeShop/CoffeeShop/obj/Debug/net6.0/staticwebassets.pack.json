@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoffeeShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CoffeeShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\custom.css",
+      "PackagePath": "staticwebassets\\admin\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.blue.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.blue.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.blue.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.blue.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.blue.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.default.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.default.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.default.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.default.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.green.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.green.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.green.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.green.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.green.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.pink.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.pink.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.pink.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.pink.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.pink.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.pink.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.red.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.red.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.red.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.red.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.red.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.red.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.sea.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.sea.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.sea.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.sea.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.sea.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.sea.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.violet.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.violet.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.violet.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.violet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\css\\style.violet.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.violet.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\js\\charts-custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\js\\charts-home.js",
+      "PackagePath": "staticwebassets\\admin\\js\\charts-home.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\js\\component-gallery.js",
+      "PackagePath": "staticwebassets\\admin\\js\\component-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\js\\front.js",
+      "PackagePath": "staticwebassets\\admin\\js\\front.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\chart.js\\Chart.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\chart.js\\Chart.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\choices.js\\public\\assets\\scripts\\choices.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\choices.js\\public\\assets\\scripts\\choices.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\choices.js\\public\\assets\\styles\\base.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\choices.js\\public\\assets\\styles\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\choices.js\\public\\assets\\styles\\base.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\choices.js\\public\\assets\\styles\\base.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\choices.js\\public\\assets\\styles\\choices.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\choices.js\\public\\assets\\styles\\choices.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\imagesloaded.pkgd.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\imagesloaded.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\sandbox\\background\\css\\background.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\sandbox\\background\\css\\background.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\sandbox\\background\\index.html",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\sandbox\\background\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\sandbox\\progress\\index.html",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\sandbox\\progress\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\imagesloaded\\sandbox\\progress\\progress.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\imagesloaded\\sandbox\\progress\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\just-validate\\css\\justValidateTooltip.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\just-validate\\css\\justValidateTooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\just-validate\\css\\justValidateTooltip.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendor\\just-validate\\css\\justValidateTooltip.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\just-validate\\index.html",
+      "PackagePath": "staticwebassets\\admin\\vendor\\just-validate\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\just-validate\\js\\just-validate.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\just-validate\\js\\just-validate.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\just-validate\\js\\just-validate.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendor\\just-validate\\js\\just-validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\admin\\vendor\\just-validate\\tooltip.html",
+      "PackagePath": "staticwebassets\\admin\\vendor\\just-validate\\tooltip.html"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\images\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\blog-img1.png",
+      "PackagePath": "staticwebassets\\images\\blog-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\blog-img2.png",
+      "PackagePath": "staticwebassets\\images\\blog-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\bulit-icon.png",
+      "PackagePath": "staticwebassets\\images\\bulit-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\client-bg.png",
+      "PackagePath": "staticwebassets\\images\\client-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\client-img1.png",
+      "PackagePath": "staticwebassets\\images\\client-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\client-img2.png",
+      "PackagePath": "staticwebassets\\images\\client-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\client-img3.png",
+      "PackagePath": "staticwebassets\\images\\client-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\customer-img.png",
+      "PackagePath": "staticwebassets\\images\\customer-img.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\footer-bg.png",
+      "PackagePath": "staticwebassets\\images\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\header-bg.png",
+      "PackagePath": "staticwebassets\\images\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\icon-4.png",
+      "PackagePath": "staticwebassets\\images\\icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\icon-5.png",
+      "PackagePath": "staticwebassets\\images\\icon-5.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\icon-6.png",
+      "PackagePath": "staticwebassets\\images\\icon-6.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\icon-7.png",
+      "PackagePath": "staticwebassets\\images\\icon-7.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\icon-8.png",
+      "PackagePath": "staticwebassets\\images\\icon-8.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\icon-9.png",
+      "PackagePath": "staticwebassets\\images\\icon-9.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\img-1.png",
+      "PackagePath": "staticwebassets\\images\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\img-2.png",
+      "PackagePath": "staticwebassets\\images\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\img-3.png",
+      "PackagePath": "staticwebassets\\images\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\img-4.png",
+      "PackagePath": "staticwebassets\\images\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\images\\teligram-icon.png",
+      "PackagePath": "staticwebassets\\images\\teligram-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\load.js",
+      "PackagePath": "staticwebassets\\js\\load.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\FAT\\Desktop\\CoffeeShop\\CoffeeShop\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoffeeShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CoffeeShop.props",
+      "PackagePath": "build\\CoffeeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CoffeeShop.props",
+      "PackagePath": "buildMultiTargeting\\CoffeeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CoffeeShop.props",
+      "PackagePath": "buildTransitive\\CoffeeShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

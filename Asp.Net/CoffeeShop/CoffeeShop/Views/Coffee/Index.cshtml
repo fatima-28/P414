@@ -1,0 +1,38 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="coffee_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <h1 class="coffee_taital">OUR Coffee OFFER</h1>
+            <div class="bulit_icon"><img src="~/images/bulit-icon.png"></div>
+        </div>
+    </div>
+    <div class="coffee_section_2">
+        <div id="main_slider" class=" slide my-3" >
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="container-fluid">
+                        <div class="row parent-load" data-list-count="@ViewBag.countList">
+                            <partial name="_ProductPartial" />
+                       </div>
+                       <div class="my-4 d-flex justify-content-center">
+                           <button class="btn-load btn btn-success">Show more</button>
+                           <input type="text" placeholder="Add take count" class="form-group input-load"/>
+                       </div>
+                    </div>
+                </div>
+                </div>
+            <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
+                <i class="fa fa-arrow-left"></i>
+            </a>
+            <a class="carousel-control-next" href="#main_slider" role="button" data-slide="next">
+                <i class="fa fa-arrow-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- coffee section end -->
